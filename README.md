@@ -1,2 +1,3 @@
-# excel_tea_sales_project
-A data exploration for tea sales by looking upclose at the purchasing patterns and behaviours by different countries.
+A Comprehensive end-to-end Excel project
+---
+A data exploration for tea purchasing patterns and behaviours across different countries for various tea types.
